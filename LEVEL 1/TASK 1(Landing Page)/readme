@@ -1,0 +1,21 @@
+# Landing Page Project
+
+## Overview
+
+This project is a landing page designed to showcase a product or service. It includes a hero section with a background image, text content, and a call-to-action button.
+
+## Live Preview
+
+You can view the live preview of the landing page [here](https://cod-soft-rho.vercel.app/).
+
+## Project Structure
+
+The project has the following structure:
+
+LEVEL 1 │ ├── TASK 1 (Landing Page) │ ├── img │ │ └── hero_bg.jpg │ ├── index.html │ └── style.css
+
+### How to Run
+- Clone the repository to your local machine. Open index.html in your web browser to view the landing page.
+
+- Or you can use this link https://cod-soft-rho.vercel.app/
+
