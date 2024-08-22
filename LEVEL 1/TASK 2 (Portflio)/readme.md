@@ -1,3 +1,3 @@
 # Portfolio Project
 
-Live preview :- [Debanga Raz Hazarika - Portfolio (portfolio-i9xnz59zs-debangas-projects.vercel.app)](https://portfolio-i9xnz59zs-debangas-projects.vercel.app)
+Live preview :-[Debanga Raz Hazarika - Portfolio (portfolioproject-vert.vercel.app)](https://portfolioproject-vert.vercel.app/)
